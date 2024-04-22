@@ -1,5 +1,5 @@
 # Kenfong_Ecoli_ML
-This repository is for the kenfong team spring 2024
+This repository is for the Kenfong team spring 2024.
 
 Glossary
 
