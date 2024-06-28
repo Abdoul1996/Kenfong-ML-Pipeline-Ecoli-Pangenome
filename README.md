@@ -1,4 +1,4 @@
-# Kenfong_Ecoli_ML
+# Kenfong-ML-Pipeline-Ecoli-Pangenome
 This repository is for the Kenfong team spring 2024.
 
 Glossary
