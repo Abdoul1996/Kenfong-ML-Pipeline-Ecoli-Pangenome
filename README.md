@@ -1,5 +1,4 @@
 # Kenfong-ML-Pipeline-Ecoli-Pangenome
-<<<<<<< HEAD
 
 ## Dataset Information
 
@@ -12,8 +11,6 @@
 | **mills_2022**           | Mills Dataset                     | 2022              | [Mills et al., 2022]( https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01150-7)                   | (Commit message not provided)              | (Commit date not provided) |
 
 
-=======
->>>>>>> 9a9bd0b1f5c0d420c1bafcf3e93370af4d4f9ac9
 This repository is for the Kenfong team spring 2024.
 
 Glossary
