@@ -34,6 +34,3 @@ The data is structured in a `pandas.DataFrame`, where:
 ### Install Pandas:
 ```bash
 pip install pandas
-
-
-This `README.md` is concise and to the point, giving a brief description of each function without going into too much detail. It includes the basic data structure and usage example, making it easy for users to quickly understand and implement the functions.
