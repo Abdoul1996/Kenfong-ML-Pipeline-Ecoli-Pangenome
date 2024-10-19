@@ -43,7 +43,7 @@ trimq=10: Sets a quality threshold of 10 for trimming.
 Myco and Estefanos add details here 
 
 ### Issues/Challenges
-Incorrect parameter tuning may lead to over-trimming of reads, reducing data quality. Experiment with different quality thresholds and k-mer sizes for optimal results.
+- Incorrect parameter tuning may lead to over-trimming of reads, reducing data quality. Experiment with different quality thresholds and k-mer sizes for optimal results.
 
 ### Link to Documentation
 [BBDuK Documentation](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/bb-tools-user-guide/bbduk-guide/)

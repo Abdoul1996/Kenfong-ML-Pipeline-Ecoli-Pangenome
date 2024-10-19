@@ -48,6 +48,6 @@ Parameters
 - High-quality input data is necessary for accurate genome assembly. Low-quality reads or missing data may result in fragmented assemblies.
 - Long-read data greatly improves the assembly of complex or repetitive genomes.
 ### Link to Documentation
-[GitHub Unicycler Documentation](https://github.com/rrwick/Unicycler)
+- [GitHub Unicycler Documentation](https://github.com/rrwick/Unicycler)
 
 

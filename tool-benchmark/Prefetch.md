@@ -46,8 +46,8 @@ Myco and Estefanos can share the performance
 Myco share your experiences 
 
 ### Link to Documentation
-[Prefetch SRA Toolkit Documentation](https://github.com/ncbi/sra-tools)
-[Prefetch and Fasterq-dum](https://github.com/ncbi/sra-tools/wiki/08.-prefetch-and-fasterq-dump)
+- [Prefetch SRA Toolkit Documentation](https://github.com/ncbi/sra-tools)
+- [Prefetch and Fasterq-dum](https://github.com/ncbi/sra-tools/wiki/08.-prefetch-and-fasterq-dump)
 
 ### Example Output
 ```bash
