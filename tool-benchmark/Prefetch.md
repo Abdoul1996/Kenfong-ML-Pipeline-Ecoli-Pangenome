@@ -31,11 +31,11 @@ prefetch ERR4035812
 prefetch ERR4035812 --max-size 20GB --output-directory ./data
 ```
 ### Strengths 
-Effecient for downloading large datasets 
+- Effecient for downloading large datasets 
 ### Weaknesses 
-Prefetch downloads .sra files, which need further processing with tools like fasterq-dump to extract the sequencing reads in FASTQ format.
+- Prefetch downloads .sra files, which need further processing with tools like fasterq-dump to extract the sequencing reads in FASTQ format.
 
-Myco and Estefanos can add something here
+# Myco and Estefanos can add something here
 
 ### Performance 
 - **Speed**: 
@@ -47,10 +47,10 @@ Myco share your experiences
 
 ### Link to Documentation
 [Prefetch SRA Toolkit Documentation](https://github.com/ncbi/sra-tools)
+[Prefetch and Fasterq-dum](https://github.com/ncbi/sra-tools/wiki/08.-prefetch-and-fasterq-dump)
 
 ### Example Output
 ```bash
-Copy code
 $ prefetch ERR4035812
 Downloading ERR4035812...
 Downloading file 'ERR4035812' to local cache: complete.
