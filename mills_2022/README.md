@@ -5,7 +5,7 @@
 * 
 - There are 2,076 samples included
 - `mills_metadata.tsv`: a tab-separated file containing all the assemblies associated with BioProject PRJNA809394. Includes assembly name, sequence length, and more.  
-- `mills_accessions.txt`: a text file containing the accessions of each assembly in the dataset.
+- `mills_assembly_accession.txt`: a text file containing the accessions of each assembly in the dataset.
 - `roary_output/*`: a directory containing files from running roary on all of the accessions. It includes:
   - `pan_genome_reference.fa`
   - `summary_statistics.txt`
