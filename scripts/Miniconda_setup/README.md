@@ -15,7 +15,7 @@ This script automates the installation of **Miniconda** and sets up essential bi
 ## 📥 Installation & Setup
 ### 🔽 1. Download & Run the Script
 ```bash
-wget https://your-repository.com/install_miniconda_envs.sh -O install_miniconda_envs.sh
+wget https://github.com/Abdoul1996/Kenfong-ML-Pipeline-Ecoli-Pangenome/raw/main/scripts/Miniconda_setup/install_conda.sh -O install_miniconda_envs.sh
 chmod +x install_miniconda_envs.sh
 ./install_miniconda_envs.sh
 ```
