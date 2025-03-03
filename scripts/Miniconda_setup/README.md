@@ -1,4 +1,4 @@
-# 🚀 Miniconda Bioinformatics Setup Script
+# 🚀 Miniconda Setup Script
 
 ## 📌 Overview
 This script automates the installation of **Miniconda** and sets up essential bioinformatics tools in dedicated Conda environments.
