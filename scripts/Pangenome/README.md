@@ -10,7 +10,7 @@
 - samtools v1.18
 
 
-## Pipeline
+# Pipeline
 
 Each step is able to be done in succession, but are split into separate tools in order to switch environments in between. Conda can be used to switch between tools by using the `conda run` command. Check conda's docs for more info. 
 
@@ -46,7 +46,7 @@ Ex: `python batch_roary.py ./my_directory/prokka_files/ ./my_directory/roary_fil
  
 Ex: `python batch_consensus.py ./my_accessions.txt ./my_directory/fastq_files my-bowtie-index`  
 
-## Other tools
+# Other tools
 
 These tools do not have any other dependencies other than python3.
 
@@ -78,3 +78,13 @@ Gets accession numbers from FASTA files within a directory.
 Ex: `python get_accessions.py ./my_directory/fastq_files/`  
 
 ---
+
+#downloading Mills data
+mills_data.tsv is a TSV file gotten from the BIOPROJECT PRJNA809394
+Link: https://www.ncbi.nlm.nih.gov/datasets/genome/?bioproject=PRJNA809394
+
+5/15/2024
+downloaded dataset using ncbi-datasets-cli
+command: `datasets download genome accession PRJNA809394 --include genome`
+
+Entire file is est. ~3GB

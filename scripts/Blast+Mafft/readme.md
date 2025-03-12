@@ -52,3 +52,15 @@ align_seq(
     query_ref = query_ref
 )
 ```
+
+# Generating blast Database
+
+
+
+
+# Unused Scripts
+These scripts are unused because you can just blast one FASTA file against a blast database instead of separately
+- `batch_blast.py` - blasts each gene from a directory to a database
+- `split_fasta_to_fsa.py` - splits fasta into separate files
+- `cat_blast_results.py` - takes blast results and concatenates results
+- `brad_methods.py` - performs all three functions above in succession
